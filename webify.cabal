@@ -7,9 +7,9 @@ description:
 homepage:            http://github.com/ananthakumaran/webify
 license:             MIT
 license-file:        LICENSE
-author:              Anantha Kumaran
-maintainer:          ananthakumaran@gmail.com
-copyright:           (c) 2013 Anantha Kumaran
+author:              Anantha Kumaran <ananthakumaran@gmail.com>
+maintainer:          Sarah Brofeldt <sbrofeldt@gmail.com>
+copyright:           (c) 2013-2017 Anantha Kumaran
 category:            Web
 build-type:          Simple
 tested-with:         GHC == 7.8.4, GHC == 7.10.2, GHC == 8.0.2
